@@ -1,4 +1,4 @@
-/*body footer {
+/*body {
     background-color: #41A38C;
 }*/
 
@@ -34,4 +34,9 @@
 .text-style {
     text-align: center;
     font-weight: bold;
+}
+
+.footer-style {
+    background-color: #78F0D4;
+    color: #000000;
 }
