@@ -14,6 +14,19 @@ body {
     background-color: #1d809f;
 }
 
+.jumbotron-fluid {
+    background-color: #000000;
+}
+
+.banner-photo {
+    display: block;
+    width: 50%;
+    height: 100%;
+    position: relative;
+    z-index: 101;
+    background-repeat: no-repeat;
+}
+
 .bio-photo {
     display: block;
     width: 50%;
@@ -32,4 +45,6 @@ body {
 .footer-style {
     background-color: #1d809f;
     color: #000000;
+    position: fixed;
+    bottom: 0;
 }
