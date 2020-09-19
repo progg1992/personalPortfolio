@@ -1,9 +1,9 @@
-/*body {
-    background-color: #41A38C;
-}*/
+body {
+    background-color: #ffc107;
+}
 
 .navbar-light {
-    background-color: #78F0D4;
+    background-color: #1d809f;
 }
 
 .bold-link {
@@ -11,15 +11,7 @@
 }
 
 .dropdown-menu {
-    background-color: #78F0D4;
-}
-
-.banner-photo {
-    display: block;
-    width: 100%;
-    position: relative;
-    z-index: 101;
-    background-repeat: no-repeat;
+    background-color: #1d809f;
 }
 
 .bio-photo {
@@ -29,6 +21,7 @@
     position: relative;
     z-index: 101;
     background-repeat: no-repeat;
+    border-radius: 50%;
 }
 
 .text-style {
@@ -37,6 +30,6 @@
 }
 
 .footer-style {
-    background-color: #78F0D4;
+    background-color: #1d809f;
     color: #000000;
 }
