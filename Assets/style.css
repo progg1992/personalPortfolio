@@ -26,7 +26,9 @@ body {
     z-index: 101;
     background-repeat: no-repeat;
 }
-
+.blackBg {
+    background-color: #000000;
+}
 .bio-photo {
     display: block;
     width: 50%;
