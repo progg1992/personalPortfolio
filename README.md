@@ -6,4 +6,4 @@
 # About me page Assets\Images\About Me.png
 # Portfolio page Assets\Images\Portfolio.png
 # Contact page Assets\Images\Contact.png
-# The resume page is not full developed at this point. I am working still working on it.
+# The resume page is not full developed at this point. I am still working on it.
