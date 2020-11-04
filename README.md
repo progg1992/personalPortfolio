@@ -1,9 +1,27 @@
-# This is my personal portfolio.
-# There is an about me page, portfolio page, and contact page.
-# This website currently utilizes HTML5, CSS3, Bootstrap 4, javaScript and jQuery.
-# The link to the Github repo is https://github.com/progg1992/personalPortfolio
-# The link to the deployed website is https://progg1992.github.io/personalPortfolio/
-# About me page Assets\Images\About Me.png
-# Portfolio page Assets\Images\Portfolio.png
-# Contact page Assets\Images\Contact.png
-# The resume page is not full developed at this point. I am working still working on it.
+# personalPortfolio
+
+## Features
+
+⚡️ Modern UI Design + Reveal Animations\
+⚡️ One Page Layout\
+⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Optimized with Webpack\
+
+## Technologies used 🛠️
+
+- [Webpack](https://webpack.js.org/concepts/) - Static module bundler
+- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-end component library
+- [Sass](https://sass-lang.com/documentation) - CSS extension language
+- [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
+- [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
+- [Popper.js](https://popper.js.org/) - JavaScript popover library
+
+## Authors
+
+- **Pierce Rogg** - [https://github.com/progg1992](https://github.com/progg1992)
+
+## License
+
+This is licensed under ISC
